@@ -1,0 +1,5 @@
+node_modules
+.env
+/buid
+/.vscode
+/.wwebjs_auth
